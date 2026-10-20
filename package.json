@@ -1,0 +1,8 @@
+{
+  "name": "aws-nodejs-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api.js && node server.js"
+  }
+}
